@@ -1,0 +1,6 @@
+addappid(819790)
+addappid(819791, 1, "34a7fd9dfcc830dd60edaab056dd3b45fea8d8d0d9e2bdc7d1ad701adeef26a8")
+setManifestid(819791,"1149857152972907265")
+setManifestid(819792,"7477080963514965195")
+addappid(819793, 1, "125ac6d4538ad8ed228cbcec8cf5cecda83df533b66d94bcac6cb5cf50998cfc")
+setManifestid(819793,"531825721031867884")
